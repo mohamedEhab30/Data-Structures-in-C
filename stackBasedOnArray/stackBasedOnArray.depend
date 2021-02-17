@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1613582140 source:/home/mohamed_ehab/Desktop/SW/DS/Stack/stackBasedOnArray/main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1613581589 source:/home/mohamed_ehab/Desktop/SW/DS/Stack/stackBasedOnArray/Implementation.c
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+
+1613578672 /home/mohamed_ehab/Desktop/SW/DS/Stack/stackBasedOnArray/stack.h
+
