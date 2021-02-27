@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1614441579 source:/home/mohamed_ehab/Desktop/SW/DS/Stack/linkedStack/Implementation.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
+1614441579 /home/mohamed_ehab/Desktop/SW/DS/Stack/linkedStack/stack.h
+
+1614441601 source:/home/mohamed_ehab/Desktop/SW/DS/Stack/linkedStack/main.c
+	<stdio.h>
+	<stdlib.h>
+	"stack.h"
+
